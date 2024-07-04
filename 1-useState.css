@@ -1,0 +1,29 @@
+.container {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    text-align: center;
+}
+
+input {
+    width: 100%;
+    padding: 10px;
+    margin: 10px 0;
+    box-sizing: border-box;
+    border: 1px solid black;
+    border-radius: 4px;
+}
+
+button {
+    padding: 10px 20px;
+    margin: 10px 5px;
+    border: 1px solid black;
+    border-radius: 4px;
+    cursor: pointer;
+    background-color: aqua;
+}
+
+button:hover {
+    color: white;
+    background-color: black;
+}
